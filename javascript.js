@@ -13,12 +13,11 @@ var pics = [
 "<p><img src='rand_pic/somer_rise_12.jpg'></p>",
 "<p><img src='rand_picc/somer_rise_13.jpg'></p>",
 "<p><img src='rand_pic/somer_rise_14.jpg'></p>",
-"<p><img src='rand_pic/33 inch black drum.jpg'></p>",
-"<p><img src='rand_pic/aransaspass.jpg'></p>",
-"<p><img src='rand_pic/canoe_lake.jpg'></p>",
-"<p><img src='rand_pic/shamrock.jpg'></p>",
-"<p><img src='rand_pic/shamrock.jpg'></p>",
-"<p><img src='rand_pic/trentriver.jpg'></p>",
+"<p><img src='33 inch black drum.jpg'></p>",
+"<p><img src='aransaspass.jpg'></p>",
+"<p><img src='canoe_lake.jpg'></p>",
+"<p><img src='shamrock.jpg'></p>",
+"<p><img src='trentriver.jpg'></p>",
 ]
 
 var quotes = [
