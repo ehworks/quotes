@@ -1,5 +1,5 @@
 var pics = [
-"<p><img src='rand_pic/somer_rise_4.jpg' alt='sunrise4 '></p>" ,    
+"<p><img src='rand_pic/somer_rise_4.jpg'></p>",    
 "<p><img src='rand_pic/somer_rise_1.jpg'></p>",
 "<p><img src='rand_pic/somer_rise_2.jpg'></p>",
 "<p><img src='rand_pic/somer_rise_3.jpg'></p>",
